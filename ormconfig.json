@@ -1,0 +1,6 @@
+{
+    "type": "mysql",
+    "database": "./db.mysql",
+    "entities": ["./src/models/*.ts"],
+    "synchronize": true
+  }

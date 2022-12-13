@@ -1,0 +1,1 @@
+"# TS-typegraphql_typeOrm" 
